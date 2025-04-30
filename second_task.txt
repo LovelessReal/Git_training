@@ -1,17 +1,19 @@
-1. I made changes to the file on github
+1. Вношу изменения в файл на гитхабе
 
-2. >git status
+2. Проверяю идентичность
+>git status
 
-3. I reviewed the contents of the file from the local repository
+3. Просматриваю содержимое файла на локальном репозитории
  >cat first_task.txt
 
-4. I downloaded changes from a remote repository
+4. Загружаю изменения с удаленного
  >git fetch
 
-5. Checked how many commits behind my local repository is
+5. Смотрю, на какое количество коммитов отстает локальный репозиторий
  >git status
 
-6. I downloaded changes from a remote repository
+6. Обновляю локальный репозиторий
  >git pull
 
-7. >git status
+7. Проверяю идентичность
+ >git status

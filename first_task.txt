@@ -1,16 +1,17 @@
-1. I created a repository on github
+1. Создаю репозиторий на гитхаб
 
-2. I cloned the repository to my PC  
+2. Клонирую репозиторий на свой пк  
  >git clone <link> 
 
-3. I checked the current state of the repository
+3. Проверяю идентичность локального и удаленного репозиториев
  >git status
 
-4. I created this file. 
+4. Создаю файл first_task.txt 
 
 5. >git add first_task.txt
 
-6. >git commit -m "test commit 1"
+6. Создаю коммит
+>git commit -m "test commit 1"
 
-7. I pushed the changes to the remote repository.
+7. Отправляю коммит на удаленный репозиторий
  >git push
