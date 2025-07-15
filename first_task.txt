@@ -1,0 +1,11 @@
+1. I created a repository on github
+
+2. I cloned the repository to my PC  
+ >git clone <link> 
+
+3. I checked the current state of the repository
+ >git status
+
+4. I created this file. 
+
+5. >git add first_task.txt
