@@ -9,3 +9,8 @@
 4. I created this file. 
 
 5. >git add first_task.txt
+
+6. >git commit -m "test commit 1"
+
+7. I pushed the changes to the remote repository.
+ >git push
