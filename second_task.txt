@@ -11,6 +11,7 @@
 5. Checked how many commits behind my local repository is
  >git status
 
-6. >git pull
+6. I downloaded changes from a remote repository
+ >git pull
 
 7. >git status
