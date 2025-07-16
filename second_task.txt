@@ -1,0 +1,16 @@
+1. I made changes to the file on github
+
+2. >git status
+
+3. I reviewed the contents of the file from the local repository
+ >cat first_task.txt
+
+4. I downloaded changes from a remote repository
+ >git fetch
+
+5. Checked how many commits behind my local repository is
+ >git status
+
+6. >git pull
+
+7. >git status
