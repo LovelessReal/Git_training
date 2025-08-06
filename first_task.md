@@ -1,9 +1,10 @@
 ### 🌐 Choose your language / Выберите язык:
-- [🇬🇧 English](#english)
-- [🇷🇺 Русский](#русский)
+- [🇬🇧 English](#english-anchor)
+- [🇷🇺 Русский](#russian-anchor)
 
 ---
 
+<a name="english-anchor"></a>
 ### 🇬🇧 English
 
 #### Git Workflow Steps
@@ -24,6 +25,7 @@
 
 ---
 
+<a name="russian-anchor"></a>
 ### 🇷🇺 Русский
 
 #### Шаги работы с Git
